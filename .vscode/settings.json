@@ -1,0 +1,18 @@
+{
+    "powermode.enabled": true,
+"powermode.presets": "particles",
+"powermode.effect": "electric",
+"powermode.comboTimeout": 200,
+"powermode.shake.enabled": true,
+"powermode.customEffects": [
+    {
+        "name": "lightning",
+        "type": "shape",
+        "shape": "zigzag",
+        "color": "#FFD700",
+        "intensity": 5,
+        "duration": 200
+    }
+]
+
+}
